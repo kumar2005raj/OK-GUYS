@@ -1,1 +1,2 @@
-# OK-GUYS
+# Text To Speech Converter
+This Project is made up of HTML, CSS and JavaScript . In this design # Text to Speech Converter, there is a converter with a beautiful design as you can see in the image above, there is a textarea to enter text, and there are options for speed and pitch of speech. You can select the voice of speech as well and then click on the convert button the speech will start. If you are unable to understand me then you can check the source code and preview it as well.
